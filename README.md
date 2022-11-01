@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.hizliresim.com/gxmeaxl.png" alt="basalt-logo" width="15%"/>
+</p>
+
 # Basalt-Client
 Basalt Utility mod
 
