@@ -12,4 +12,4 @@ I Decided to make project Free cuz i dont have motivation to work on project any
 
 Download it from here: https://drive.google.com/file/d/1SfxejeuLqkUQgOpf0rPE4rp-9HwkViNT/view?usp=share_link
 
-After  you download .zip file extract it then replace it with things inside of your .minecraft folder then go inside of launcher and create a new installation named sigma5(its at versions while you creating an installion)
+After  you download .rar file extract it then replace it with things inside of your .minecraft folder then go inside of launcher and create a new installation named sigma5(its at versions while you creating an installion)
